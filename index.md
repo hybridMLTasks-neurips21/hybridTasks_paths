@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Solving hybrid machine learning tasks by traversing weight space geodesics
+
+
 
 You can use the [editor on GitHub](https://github.com/hybridMLTasks-neurips21/hybridTasks_paths/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
